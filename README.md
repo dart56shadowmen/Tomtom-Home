@@ -219,4 +219,4 @@ TomTom HOME is offered as a complete free version with all features included. En
 Unlock the full potential of your TomTom GPS today by downloading TomTom HOME. Your travels await!
 
 ---
-**Last updated:** 2026-11-11 23:17:55 UTC
+**Last updated:** 2026-11-12 05:50:37 UTC
